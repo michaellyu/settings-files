@@ -11,7 +11,7 @@
 
 ### Docker
 
-* [/etc/docker/daemon.json](https://github.com/michaellyu/settings-files/blob/master/.npmrc)
+* [/etc/docker/daemon.json](https://github.com/michaellyu/settings-files/blob/master/docker/daemon.json)
 
 ### 操作系统
 
