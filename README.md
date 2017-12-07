@@ -18,3 +18,7 @@
 #### Ubuntu 16.04
 * [/etc/apt/sources.list](https://github.com/michaellyu/settings-files/blob/master/ubuntu-16.04/sources.list)
 
+### Pip
+
+* [~/.pip/pip.conf](https://github.com/michaellyu/settings-files/blob/master/.pip/pip.conf)
+
