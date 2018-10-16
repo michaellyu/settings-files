@@ -6,3 +6,4 @@ phantomjs_cdnurl=https://npm.taobao.org/mirrors/phantomjs
 fse_binary_host_mirror=https://npm.taobao.org/mirrors/fsevents
 sass_binary_site=https://npm.taobao.org/mirrors/node-sass
 electron_mirror=https://npm.taobao.org/mirrors/electron
+puppeteer_download_host=https://storage.googleapis.com.cnpmjs.org
